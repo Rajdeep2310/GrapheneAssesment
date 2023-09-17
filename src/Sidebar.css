@@ -1,0 +1,11 @@
+.Sidebar {
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 200px;
+  height: 300px;
+  margin-left: 50px;
+}
+

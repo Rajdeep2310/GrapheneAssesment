@@ -1,0 +1,99 @@
+.headerTop_nav {
+  max-width: 100%;
+  height: 42px;
+  background: #1a1a1a;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.container {
+  margin: 10px;
+  font-size: 14px;
+  color: #979595;
+}
+
+img {
+  background-color: azure;
+}
+
+/* .container1 {
+  width: 76px;
+  height: 18px;
+  top: 13px;
+  left: 118px;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: #626262;
+}
+.container2 {
+  width: 109px;
+  height: 15px;
+  top: 13px;
+  left: 222px;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: #626262;
+}
+.container3 {
+  width: 27px;
+  height: 15px;
+  top: 14px;
+  left: 1164px;
+  font-family: Poppins;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: #626262;
+}
+.container4 {
+  width: 47px;
+  height: 15px;
+  top: 14px;
+  left: 1226px;
+  font-family: Poppins;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  background: #626262;
+}
+.facebook_Logo {
+  /* width: 4.5px;
+  height: 7.599999904632568px;
+  top: 17px;
+  left: 1287px; */
+/* background: #626262;
+}
+.Twitter_logo {
+  width: 7.599999904632568px;
+  height: 5.600000381469727px;
+  top: 18px;
+  left: 1323px;
+  background: #626262;
+}
+.instagram_logo {
+  width: 8.000082015991211px;
+  height: 8px;
+  top: 17px;
+  left: 1342px;
+}
+.linkedin_logo {
+  width: 8px;
+  height: 7.644787311553955px;
+  top: 17px;
+  left: 1303px;
+  background: #626262;
+} */
